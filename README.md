@@ -43,6 +43,8 @@ O projeto está organizado nas seguintes seções:
 
 Durante o desenvolvimento deste projeto, foram geradas diversas documentações essenciais para assegurar a qualidade e o controle das atividades de teste. Abaixo estão os links para cada um dos documentos relevantes:
 
+Possivelmente você não consiguira ver as anotacões que eu realizei na wiki do gitlab, mas caso tenha interesse possos estar enviando uma gravação mais detalhada sobre esse projeto.
+
 - [DoR e DoD | Usuários & Login](https://gitlab.com/challengers9091030/challenge-final/-/wikis/DoR-e-DoD-%7C-usuarios-&-login-%7C)
 - [Casos de Teste | Movies & Tickets](https://gitlab.com/challengers9091030/challenge-final/-/wikis/home)
 - [Matriz de Rastreabilidade](https://gitlab.com/challengers9091030/challenge-final/-/wikis/Matriz-de-rastreabilidade)
@@ -205,3 +207,5 @@ Caso tenha dúvidas ou deseje mais informações sobre o projeto, você pode ent
 
 
 <a href="https://compass.uol/pt/home/"><img src="imagens/logo.png" alt="logo Compass UOL" width="300"></a> <a href="https://compass.uol/pt/home/"><img src="imagens/great.png" alt="great place to work" width="100"></a>
+
+
