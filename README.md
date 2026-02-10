@@ -43,7 +43,7 @@ O projeto está organizado nas seguintes seções:
 
 Durante o desenvolvimento deste projeto, foram geradas diversas documentações essenciais para assegurar a qualidade e o controle das atividades de teste. Abaixo estão os links para cada um dos documentos relevantes:
 
-Possivelmente você não consiguira ver as anotacões que eu realizei na wiki do gitlab, dessa forma estarei disponibilizando um arquivo para ser baixado, caso queira analisar as minhas documentações.
+Possivelmente você não consiguira ver as anotacões que eu realizei na wiki do gitlab, dessa forma estarei disponibilizando um arquivo (documentacoes) para ser baixado, caso queira analisar as minhas documentações.
 
 - [DoR e DoD | Usuários & Login](https://gitlab.com/challengers9091030/challenge-final/-/wikis/DoR-e-DoD-%7C-usuarios-&-login-%7C)
 - [Casos de Teste | Movies & Tickets](https://gitlab.com/challengers9091030/challenge-final/-/wikis/home)
